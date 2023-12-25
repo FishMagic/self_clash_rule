@@ -1,42 +1,42 @@
 payload:
-  - +.adguard-dns.io
-  - +.downloader.ftmc.me
-  - +.gvt1.com
-  - +.uupdump.net
-  - +.weebly.com
-  - linkip.adguard-dns.com
-  - pan.ftmc.me
-  - proxy.sample
-  - ruTracker.org
-  - upload.pan.ftmc.me
-  - +.googleapis.cn
-  - +.nikke-kr.com
-  - +.intlgame.com
-  - +.appsflyer.com
-  - +.idrlabs.com
-  - +.gvt1.com
-  - +.hoyoverse.com
-  - +.starrails.com
-  - +.raws.dev
-  - +.gstatic.com
-  - +.googleapis.com
-  - +.mstdn.social
-  - +.dbrand.com
-  - +.obsproject.com
-  - +.huggingface.co
-  - +.gradle.org
-  - +.factorio.com
-  - +.gtnewhorizons.com
-  - +.hydev.org
-  - +.ets.org
-  - +.delivery.mp.microsoft.com
-  - +.getbukkit.org
-  - +.saucenao.com
-  - +.fabricmc.net
-  - +.minecraftforge.net
-  - +.shedaniel.me
-  - +.za.group
-  - +.discord.gg
-  - +.tabnine.com
-  - +.spigotmc.org
-  - +.minecraftservices.com
+- +.adguard-dns.io
+- +.appsflyer.com
+- +.dbrand.com
+- +.delivery.mp.microsoft.com
+- +.discord.gg
+- +.downloader.ftmc.me
+- +.ets.org
+- +.fabricmc.net
+- +.factorio.com
+- +.getbukkit.org
+- +.googleapis.cn
+- +.googleapis.com
+- +.gradle.org
+- +.gstatic.com
+- +.gtnewhorizons.com
+- +.gvt1.com
+- +.gvt1.com
+- +.hoyoverse.com
+- +.huggingface.co
+- +.hydev.org
+- +.idrlabs.com
+- +.intlgame.com
+- +.minecraftforge.net
+- +.minecraftservices.com
+- +.mstdn.social
+- +.nikke-kr.com
+- +.obsproject.com
+- +.raws.dev
+- +.saucenao.com
+- +.shedaniel.me
+- +.spigotmc.org
+- +.starrails.com
+- +.tabnine.com
+- +.uupdump.net
+- +.weebly.com
+- +.za.group
+- linkip.adguard-dns.com
+- pan.ftmc.me
+- proxy.sample
+- ruTracker.org
+- upload.pan.ftmc.me
