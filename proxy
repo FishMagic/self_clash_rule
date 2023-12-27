@@ -1,6 +1,6 @@
 payload:
-- +.adguard-dns.io
 - +.adfree.online
+- +.adguard-dns.io
 - +.appsflyer.com
 - +.dbrand.com
 - +.delivery.mp.microsoft.com
@@ -33,6 +33,7 @@ payload:
 - +.spigotmc.org
 - +.starrails.com
 - +.tabnine.com
+- +.thiscute.world
 - +.uupdump.net
 - +.weebly.com
 - +.za.group
