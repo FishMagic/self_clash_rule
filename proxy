@@ -1,6 +1,7 @@
 payload:
 - +.adfree.online
 - +.adguard-dns.io
+- +.androidx.dev
 - +.apkmirror.com
 - +.appsflyer.com
 - +.appsflyersdk.com
@@ -20,6 +21,7 @@ payload:
 - +.getbukkit.org
 - +.googleapis.cn
 - +.googleapis.com
+- +.google.dev
 - +.gorelay.net
 - +.gradle.org
 - +.gstatic.com
